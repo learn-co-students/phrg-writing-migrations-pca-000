@@ -41,6 +41,4 @@ StandardError: Directly inheriting from ActiveRecord::Migration is not supported
 ...simply add `[4.2]` to the end of `ActiveRecord::Migration`, exactly as the error message instructs.
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/writing-migrations' title='Let's Write Some Migrations'>Let's Write Some Migrations</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/writing-migrations'>Writing Our Own Migrations</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Let's Write Some Migrations</p>
