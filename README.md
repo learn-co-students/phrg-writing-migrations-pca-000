@@ -40,5 +40,7 @@ StandardError: Directly inheriting from ActiveRecord::Migration is not supported
 ```
 ...simply add `[4.2]` to the end of `ActiveRecord::Migration`, exactly as the error message instructs.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-writing-migrations/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-writing-migrations/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Let's Write Some Migrations</p>
